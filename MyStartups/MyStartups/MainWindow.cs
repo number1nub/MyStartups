@@ -4,14 +4,12 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
 using Microsoft.VisualBasic;
-using System.Runtime.InteropServices;
 using System.Reflection;
-using System.Text;
 
 
 namespace MyStartups
 {
-	public partial class MainWindow : Form
+    public partial class MainWindow : Form
 	{
 		StartupFiles fileList = new StartupFiles();
 

@@ -6,7 +6,6 @@ using Newtonsoft.Json;
 
 namespace MyStartups
 {
-
 	class StartupFile
 	{
 		public string FileName { get; set; }
